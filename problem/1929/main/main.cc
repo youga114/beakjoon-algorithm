@@ -11,10 +11,10 @@ int main(int argc, char** argv) {
         allNum[i] = true;
     };
 
-    for(int i = 2; i <= max; ++i) {
+    for(unsigned long long i = 2; i <= max; ++i) {
         if(allNum[i] == true) {
             if(i >= min) {
-                cout << i << endl;
+                cout << i << '\n';
             }
             for(unsigned long long j = i * i; j <= max; j += i) {
                 allNum[j] = false;
