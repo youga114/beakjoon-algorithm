@@ -13,15 +13,17 @@ int main(int argc, char** argv) {
         cin >> v[i];
     }
 
-    sort(v.begin(), v.end());
+    vector<int> dp(n, 1);
 
-    // for (int i = 0; i < n; ++i) {
-    //     cout<< v[i] << '\n';
-    // }
+    for (int i = 1; i < n; ++i) {
+        for (int j = i - 1; j >= 0; --j) {
+            if (v[i] > v[j] && dp[i] <= dp[j]) {
+                dp[i] = dp[j] + 1;
+            };
+        }
+    }
 
-    v.erase(unique(v.begin(), v.end()), v.end());
-
-    cout << v.size();
+    cout << *max_element(dp.begin(), dp.end());
 
     return 0;
 }
