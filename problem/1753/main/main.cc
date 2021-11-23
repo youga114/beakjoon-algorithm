@@ -23,27 +23,29 @@ int main(int argc, char** argv) {
 
     int infNum = 5000000;
     vector<int> dis(v + 1, infNum);
-    vector<int> flag(v + 1, 0);
+    vector<bool> isVisited(v + 1, false);
 
     dis[start] = 0;
 
-    priority_queue<pair<int, int>> pq;
+    priority_queue<pair<int, int>, vector<pair<int, int>>, greater<pair<int, int>>> pq;
     pq.push({0, start});
 
     while(pq.empty() == false) {
         pair<int, int> line = pq.top();
         pq.pop();
 
-        if (flag[line.second] == 1) {
+        if (isVisited[line.second] == true) {
             continue;
         }
-        flag[line.second] = 1;
+        isVisited[line.second] = true;
 
         vector<pair<int, int>> node = graph[line.second];
 
         for (int i = 0; i < node.size(); ++i) {
-            dis[node[i].first] = min(dis[node[i].first], dis[line.second] + node[i].second);
-            pq.push({node[i].second, node[i].first});
+            if(dis[node[i].first] > dis[line.second] + node[i].second) {
+                dis[node[i].first] = dis[line.second] + node[i].second;
+                pq.push({dis[node[i].first], node[i].first});
+            }
         }
     }
 
