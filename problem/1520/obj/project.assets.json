@@ -8,19 +8,19 @@
     "net5.0": []
   },
   "packageFolders": {
-    "/Users/yujunkim/.nuget/packages/": {}
+    "/Users/gim-yujun/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/yujunkim/research/yubieGithub/beakjoon-algorithm/problem/1520/1520.csproj",
+      "projectUniqueName": "/Users/gim-yujun/Desktop/Portpolio/21-1v/beakjoon-algorithm/problem/1520/1520.csproj",
       "projectName": "1520",
-      "projectPath": "/Users/yujunkim/research/yubieGithub/beakjoon-algorithm/problem/1520/1520.csproj",
-      "packagesPath": "/Users/yujunkim/.nuget/packages/",
-      "outputPath": "/Users/yujunkim/research/yubieGithub/beakjoon-algorithm/problem/1520/obj/",
+      "projectPath": "/Users/gim-yujun/Desktop/Portpolio/21-1v/beakjoon-algorithm/problem/1520/1520.csproj",
+      "packagesPath": "/Users/gim-yujun/.nuget/packages/",
+      "outputPath": "/Users/gim-yujun/Desktop/Portpolio/21-1v/beakjoon-algorithm/problem/1520/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/Users/yujunkim/.nuget/NuGet/NuGet.Config"
+        "/Users/gim-yujun/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net5.0"
@@ -58,7 +58,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.404/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.102/RuntimeIdentifierGraph.json"
       }
     }
   }

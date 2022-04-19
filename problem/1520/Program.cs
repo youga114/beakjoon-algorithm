@@ -45,14 +45,14 @@ namespace _1520
         
         static int getCnt(int x, int y, List<List<int>> map, List<List<int>> visitedCnt, int prevH)
         {
-            if (visitedCnt[x][y] != -1)
-            {
-                return visitedCnt[x][y];
-            }
-
             if (prevH >= map[x][y])
             {
                 return 0;
+            }
+            
+            if (visitedCnt[x][y] != -1)
+            {
+                return visitedCnt[x][y];
             }
             
             visitedCnt[x][y] = 0;
