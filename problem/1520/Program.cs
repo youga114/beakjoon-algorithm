@@ -8,7 +8,7 @@ namespace _1520
     {
         static void Main(string[] args)
         {
-            int m, n, maxValue = 10001;
+            int m, n;
             
             List<string> mn = Console.ReadLine().Split(" ").ToList();
             m = Convert.ToInt32(mn[0]);
@@ -19,9 +19,9 @@ namespace _1520
             for(int i = 0; i < m; ++i)
             {
                 var line = new List<int>();
-                line.Add(maxValue);
+                line.Add(0);
                 line.AddRange(Console.ReadLine().Split(" ").ToList().Select(x => Convert.ToInt32(x)));
-                line.Add(maxValue);
+                line.Add(0);
                 map.Add(line);
             }
             map.Add(new List<int>(new int[n + 2]));
@@ -50,7 +50,7 @@ namespace _1520
                 return visitedCnt[x][y];
             }
 
-            if (prevH <= map[x][y])
+            if (prevH >= map[x][y])
             {
                 return 0;
             }
