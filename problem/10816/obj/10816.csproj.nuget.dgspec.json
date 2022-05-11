@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/yujunkim/research/yubieGithub/beakjoon-algorithm/problem/1520/1520.csproj": {}
+    "/Users/yujunkim/research/yubieGithub/beakjoon-algorithm/problem/10816/10816.csproj": {}
   },
   "projects": {
-    "/Users/yujunkim/research/yubieGithub/beakjoon-algorithm/problem/1520/1520.csproj": {
+    "/Users/yujunkim/research/yubieGithub/beakjoon-algorithm/problem/10816/10816.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/yujunkim/research/yubieGithub/beakjoon-algorithm/problem/1520/1520.csproj",
-        "projectName": "1520",
-        "projectPath": "/Users/yujunkim/research/yubieGithub/beakjoon-algorithm/problem/1520/1520.csproj",
+        "projectUniqueName": "/Users/yujunkim/research/yubieGithub/beakjoon-algorithm/problem/10816/10816.csproj",
+        "projectName": "10816",
+        "projectPath": "/Users/yujunkim/research/yubieGithub/beakjoon-algorithm/problem/10816/10816.csproj",
         "packagesPath": "/Users/yujunkim/.nuget/packages/",
-        "outputPath": "/Users/yujunkim/research/yubieGithub/beakjoon-algorithm/problem/1520/obj/",
+        "outputPath": "/Users/yujunkim/research/yubieGithub/beakjoon-algorithm/problem/10816/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/yujunkim/.nuget/NuGet/NuGet.Config"
