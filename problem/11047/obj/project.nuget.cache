@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "0oDgNR2pkn/iZdp9kdvN3ABouvtMa6d8LYWx9H+OvrIBQJdYQNIhVKAuucCbovPzSSDZ/Nq+OUAYsiRBRmaLdw==",
+  "dgSpecHash": "J9TxXu//kqsXAsQEIhoqyacZfHnDoFbFee9aiLEqryNVlOXMsDsBrHnOQ1jBLLtterqaavwFNCwjQAHSjGuFKw==",
   "success": true,
   "projectFilePath": "/Users/yujunkim/research/yubieGithub/beakjoon-algorithm/problem/11047/11047.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "/Users/yujunkim/.nuget/packages/microsoft.netcore.app.host.osx-x64/5.0.17/microsoft.netcore.app.host.osx-x64.5.0.17.nupkg.sha512"
+  ],
   "logs": []
 }
