@@ -1,0 +1,15 @@
+/Users/yujunkim/research/yubieGithub/beakjoon-algorithm/problem/9020/bin/Debug/net6.0/9020
+/Users/yujunkim/research/yubieGithub/beakjoon-algorithm/problem/9020/bin/Debug/net6.0/9020.deps.json
+/Users/yujunkim/research/yubieGithub/beakjoon-algorithm/problem/9020/bin/Debug/net6.0/9020.runtimeconfig.json
+/Users/yujunkim/research/yubieGithub/beakjoon-algorithm/problem/9020/bin/Debug/net6.0/9020.dll
+/Users/yujunkim/research/yubieGithub/beakjoon-algorithm/problem/9020/bin/Debug/net6.0/9020.pdb
+/Users/yujunkim/research/yubieGithub/beakjoon-algorithm/problem/9020/obj/Debug/net6.0/9020.csproj.AssemblyReference.cache
+/Users/yujunkim/research/yubieGithub/beakjoon-algorithm/problem/9020/obj/Debug/net6.0/9020.GeneratedMSBuildEditorConfig.editorconfig
+/Users/yujunkim/research/yubieGithub/beakjoon-algorithm/problem/9020/obj/Debug/net6.0/9020.AssemblyInfoInputs.cache
+/Users/yujunkim/research/yubieGithub/beakjoon-algorithm/problem/9020/obj/Debug/net6.0/9020.AssemblyInfo.cs
+/Users/yujunkim/research/yubieGithub/beakjoon-algorithm/problem/9020/obj/Debug/net6.0/9020.csproj.CoreCompileInputs.cache
+/Users/yujunkim/research/yubieGithub/beakjoon-algorithm/problem/9020/obj/Debug/net6.0/9020.dll
+/Users/yujunkim/research/yubieGithub/beakjoon-algorithm/problem/9020/obj/Debug/net6.0/refint/9020.dll
+/Users/yujunkim/research/yubieGithub/beakjoon-algorithm/problem/9020/obj/Debug/net6.0/9020.pdb
+/Users/yujunkim/research/yubieGithub/beakjoon-algorithm/problem/9020/obj/Debug/net6.0/9020.genruntimeconfig.cache
+/Users/yujunkim/research/yubieGithub/beakjoon-algorithm/problem/9020/obj/Debug/net6.0/ref/9020.dll
