@@ -1,6 +1,8 @@
 # Beakjoon algorithm with cpp
 
-Here is the summary of the Backjoon algorithm solution while using bazel build system and cpp or dotnet system C# or java.
+Here is the summary of the Backjoon algorithm solution.
+
+c++, c#, java, js
 
 
 # Reference
