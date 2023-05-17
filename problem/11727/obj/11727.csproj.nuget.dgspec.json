@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "/Users/yujunkim/research/yubieGithub/beakjoon-algorithm/problem/11727/11727.csproj": {}
+    "/Users/kimyujun/Desktop/yujun/beakjoon/problem/11727/11727.csproj": {}
   },
   "projects": {
-    "/Users/yujunkim/research/yubieGithub/beakjoon-algorithm/problem/11727/11727.csproj": {
+    "/Users/kimyujun/Desktop/yujun/beakjoon/problem/11727/11727.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/yujunkim/research/yubieGithub/beakjoon-algorithm/problem/11727/11727.csproj",
+        "projectUniqueName": "/Users/kimyujun/Desktop/yujun/beakjoon/problem/11727/11727.csproj",
         "projectName": "11727",
-        "projectPath": "/Users/yujunkim/research/yubieGithub/beakjoon-algorithm/problem/11727/11727.csproj",
-        "packagesPath": "/Users/yujunkim/.nuget/packages/",
-        "outputPath": "/Users/yujunkim/research/yubieGithub/beakjoon-algorithm/problem/11727/obj/",
+        "projectPath": "/Users/kimyujun/Desktop/yujun/beakjoon/problem/11727/11727.csproj",
+        "packagesPath": "/Users/kimyujun/.nuget/packages/",
+        "outputPath": "/Users/kimyujun/Desktop/yujun/beakjoon/problem/11727/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/yujunkim/.nuget/NuGet/NuGet.Config"
+          "/Users/kimyujun/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
@@ -43,7 +43,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -52,7 +53,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.300/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.203/RuntimeIdentifierGraph.json"
         }
       }
     }

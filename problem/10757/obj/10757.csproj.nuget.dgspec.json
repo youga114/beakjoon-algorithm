@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "/Users/yujunkim/research/yubieGithub/beakjoon-algorithm/problem/10757/10757.csproj": {}
+    "/Users/kimyujun/Desktop/yujun/beakjoon/problem/10757/10757.csproj": {}
   },
   "projects": {
-    "/Users/yujunkim/research/yubieGithub/beakjoon-algorithm/problem/10757/10757.csproj": {
+    "/Users/kimyujun/Desktop/yujun/beakjoon/problem/10757/10757.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/yujunkim/research/yubieGithub/beakjoon-algorithm/problem/10757/10757.csproj",
+        "projectUniqueName": "/Users/kimyujun/Desktop/yujun/beakjoon/problem/10757/10757.csproj",
         "projectName": "10757",
-        "projectPath": "/Users/yujunkim/research/yubieGithub/beakjoon-algorithm/problem/10757/10757.csproj",
-        "packagesPath": "/Users/yujunkim/.nuget/packages/",
-        "outputPath": "/Users/yujunkim/research/yubieGithub/beakjoon-algorithm/problem/10757/obj/",
+        "projectPath": "/Users/kimyujun/Desktop/yujun/beakjoon/problem/10757/10757.csproj",
+        "packagesPath": "/Users/kimyujun/.nuget/packages/",
+        "outputPath": "/Users/kimyujun/Desktop/yujun/beakjoon/problem/10757/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/yujunkim/.nuget/NuGet/NuGet.Config"
+          "/Users/kimyujun/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
@@ -43,14 +43,23 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
           "downloadDependencies": [
             {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[5.0.0, 5.0.0]"
+            },
+            {
               "name": "Microsoft.NETCore.App.Host.osx-x64",
               "version": "[5.0.17, 5.0.17]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[5.0.0, 5.0.0]"
             }
           ],
           "frameworkReferences": {
@@ -58,7 +67,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.300/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.203/RuntimeIdentifierGraph.json"
         }
       }
     }

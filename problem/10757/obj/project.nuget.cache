@@ -1,10 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "xsGVEuABZJ0tgocWVzf32bXaGkDbYPZQj3HGyp/nolwMOJa/rl+/c/cfpAqBv1VOYotYQrLX9T8jQgGY2PLeFA==",
+  "dgSpecHash": "opcyihRqRVGgOWY0g+QbCtzp/tBVmBJaeXyyeQppJ8PqayVK88gSgoJOpFzi9ota7psJdjIf/1DFoVKmSX7lqg==",
   "success": true,
-  "projectFilePath": "/Users/yujunkim/research/yubieGithub/beakjoon-algorithm/problem/10757/10757.csproj",
+  "projectFilePath": "/Users/kimyujun/Desktop/yujun/beakjoon/problem/10757/10757.csproj",
   "expectedPackageFiles": [
-    "/Users/yujunkim/.nuget/packages/microsoft.netcore.app.host.osx-x64/5.0.17/microsoft.netcore.app.host.osx-x64.5.0.17.nupkg.sha512"
+    "/Users/kimyujun/.nuget/packages/microsoft.netcore.app.ref/5.0.0/microsoft.netcore.app.ref.5.0.0.nupkg.sha512",
+    "/Users/kimyujun/.nuget/packages/microsoft.aspnetcore.app.ref/5.0.0/microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "/Users/kimyujun/.nuget/packages/microsoft.netcore.app.host.osx-x64/5.0.17/microsoft.netcore.app.host.osx-x64.5.0.17.nupkg.sha512"
   ],
   "logs": []
 }
