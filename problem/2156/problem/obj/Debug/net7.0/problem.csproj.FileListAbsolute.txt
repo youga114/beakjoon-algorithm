@@ -1,0 +1,15 @@
+/Users/kimyujun/Desktop/yujun/beakjoon/problem/2156/problem/bin/Debug/net7.0/problem
+/Users/kimyujun/Desktop/yujun/beakjoon/problem/2156/problem/bin/Debug/net7.0/problem.deps.json
+/Users/kimyujun/Desktop/yujun/beakjoon/problem/2156/problem/bin/Debug/net7.0/problem.runtimeconfig.json
+/Users/kimyujun/Desktop/yujun/beakjoon/problem/2156/problem/bin/Debug/net7.0/problem.dll
+/Users/kimyujun/Desktop/yujun/beakjoon/problem/2156/problem/bin/Debug/net7.0/problem.pdb
+/Users/kimyujun/Desktop/yujun/beakjoon/problem/2156/problem/obj/Debug/net7.0/problem.csproj.AssemblyReference.cache
+/Users/kimyujun/Desktop/yujun/beakjoon/problem/2156/problem/obj/Debug/net7.0/problem.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kimyujun/Desktop/yujun/beakjoon/problem/2156/problem/obj/Debug/net7.0/problem.AssemblyInfoInputs.cache
+/Users/kimyujun/Desktop/yujun/beakjoon/problem/2156/problem/obj/Debug/net7.0/problem.AssemblyInfo.cs
+/Users/kimyujun/Desktop/yujun/beakjoon/problem/2156/problem/obj/Debug/net7.0/problem.csproj.CoreCompileInputs.cache
+/Users/kimyujun/Desktop/yujun/beakjoon/problem/2156/problem/obj/Debug/net7.0/problem.dll
+/Users/kimyujun/Desktop/yujun/beakjoon/problem/2156/problem/obj/Debug/net7.0/refint/problem.dll
+/Users/kimyujun/Desktop/yujun/beakjoon/problem/2156/problem/obj/Debug/net7.0/problem.pdb
+/Users/kimyujun/Desktop/yujun/beakjoon/problem/2156/problem/obj/Debug/net7.0/problem.genruntimeconfig.cache
+/Users/kimyujun/Desktop/yujun/beakjoon/problem/2156/problem/obj/Debug/net7.0/ref/problem.dll
